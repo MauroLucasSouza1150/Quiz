@@ -1,0 +1,21 @@
+#category {
+    text-align: center;
+    max-width: 500px;
+}
+
+#category h2, p{
+    margin-bottom: 1.5rem;
+}
+
+#category h2 {
+    font-size: 2.6rem;
+    font-weight: bold;
+}
+
+#category p {
+    font-size: 1.5rem;
+}
+
+#category button {
+    margin: 1rem;
+}

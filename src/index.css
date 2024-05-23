@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+
+html,
+body {
+  min-height: 100vh;
+  height: 100%;
+  background-color: #313131;
+  color: white
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  font-weight: bold;
+  font-size: 1.4rem;
+  border-radius: 3rem;
+  cursor: pointer;
+  padding: 0.8rem 1.5rem;
+  background: linear-gradient(90deg, blue 0%, rgb(37, 37, 150) 100%);
+  color: white;
+  border: none;
+}
+button:hover {
+  background: linear-gradient(90deg, rgb(3, 3, 197) 0%, rgb(52, 52, 230) 100%);
+}

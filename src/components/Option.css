@@ -1,0 +1,22 @@
+.option {
+    background-color: black;
+    border-radius: 9px;
+    height: 2.8rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.option:hover {
+    background-color: blue;
+}
+
+.correct {
+    background-color: #0bfc03;
+    font-weight: bold;
+}
+
+.wrong {
+    background-color: #ce0202;
+}
